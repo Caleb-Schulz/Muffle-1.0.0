@@ -1,0 +1,9 @@
+{
+  "type": "code",
+  "modid": "muffleboomycraft",
+  "name": "Muffle: Audio Mixer",
+  "authors": ["Boomy_Craft"],
+  "description": "Allows complete customization over all soundtracks and ambient audio.",
+  "version": "1.0.0",
+  "side": "Client",
+}
